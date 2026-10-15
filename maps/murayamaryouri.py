@@ -1,6 +1,6 @@
 from maps.AbstractGakushoku import AbstractGakushoku
 
-class osusumekai(AbstractGakushoku):
+class murayamaryouri(AbstractGakushoku):
 
     def get_menu(self):
         return "ガパオライス"

@@ -1,6 +1,6 @@
 from maps.AbstractGakushoku import AbstractGakushoku
 
-class GakushokuSample(AbstractGakushoku):
+class K25141_osusume(AbstractGakushoku):
 
     def get_menu(self):
         return "コンビニのサンドイッチ(ミックス)"

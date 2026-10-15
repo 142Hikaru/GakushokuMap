@@ -3,10 +3,10 @@ from maps.AbstractGakushoku import AbstractGakushoku
 class GakushokuSample(AbstractGakushoku):
 
     def get_menu(self):
-        return "ガパオライス"
+        return "オススメの学食メニューをここに書きます"
     
     def get_summary(self):
-        return "スパイシーで美味しい！オープンキャンパスで食べて感動した。"
+        return "オススメのポイントやなぜオススメできるかなど、簡単に書きます"
     
     def get_author(self):
-        return "村山丈一郎"
+        return "書いた人の名前を書きます"

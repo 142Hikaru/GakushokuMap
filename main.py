@@ -1,4 +1,4 @@
-from maps.GakushokuSample import GakushokuSample
+from maps.Murayamano import GakushokuSample
 
 # ↓のリストには、メンバーの各オススメ学食が格納されます。
 data = [GakushokuSample(), ]

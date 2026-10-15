@@ -9,3 +9,4 @@ class GakushokuSample(AbstractGakushoku):
         return "安い、おいしい、栄養ある"
     
     def get_author(self):
+        return "横山輝"

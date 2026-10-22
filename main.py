@@ -1,10 +1,12 @@
 from maps.GakushokuSample import GakushokuSample
 from maps.murayamaryouri import murayamaryouri
 from maps.K25141_osusume import K25141_osusume
+from maps.YoshikawaOsusume import YoshikawaOsusume
 
 # ↓のリストには、メンバーの各オススメ学食が格納されます。
 data = [murayamaryouri(),
         K25141_osusume(),
+        YoshikawaOsusume(),
         GakushokuSample(),
        ]
 
